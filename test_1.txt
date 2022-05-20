@@ -10,3 +10,4 @@ junuary
 faburary
 monday
 thusday1
+sunday
